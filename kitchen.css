@@ -1,0 +1,21 @@
+body
+{
+background-size: cover;
+background-position: center;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas
+{
+border-radius: 10px;
+border-color: black solid;
+box-shadow: 10px 15px 10px red;
+}
+
+#back{
+    float: left;
+}
